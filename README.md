@@ -23,3 +23,6 @@
 < Setter Property= “BorderThickness” Value= “2”/>
 </Style>
 
+cd ~/Desktop
+pwd
+git clone http://github.com/Axaxax2710/ShooStoreApp2.git
